@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @boodascript
-- 👀 I’m interested in Full Stack Development, automation with Python, and blockchain languages such as Selenium
+- 👋 Hi, I’m boodascript.
+- 👀 I’m passionate about Full Stack development, Python automation and Blockchain development.
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me ...
